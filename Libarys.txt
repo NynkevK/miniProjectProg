@@ -1,0 +1,8 @@
+Requests:
+https://github.com/kennethreitz/requests
+
+SMTP4dev:
+https://smtp4dev.codeplex.com/downloads/get/269147
+
+pypyodbc:
+https://github.com/jiangwen365/pypyodbc

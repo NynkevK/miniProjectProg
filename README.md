@@ -56,6 +56,12 @@ pypyodbc library (https://github.com/jiangwen365/pypyodbc). Als je dit installee
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+MANUAL
+Om de applicatie te starten, moet MainGUI.py gerund worden. Als u de screencast kijkt weet u wel hoe het werkt.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 
 MOCK DATA
 Er zijn een aantal kentekens die wij zelf in de database hebben moeten zetten, omdat het inlezen niet werkt. U komt vanzelf achter welke bekend zijn en niet. Het gaat om de volgende kentekens:
